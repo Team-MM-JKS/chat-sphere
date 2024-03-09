@@ -7,7 +7,6 @@ use Illuminate\Support\Facades\Schema;
 
 class CreateUserInformation extends Migration
 {
-
 	/**
 	 * Run the migrations.
 	 *
